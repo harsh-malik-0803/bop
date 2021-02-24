@@ -1,3 +1,5 @@
+//Reading an array
+//Finding the average of its elements
 #include<stdio.h>
 int main()
 {
